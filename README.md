@@ -8,7 +8,7 @@ Welcome to my portfolio repository! This space showcases my journey, projects, a
 
 - HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 - React.js, Node.js, Express.js, MongoDB
-- Responsive Web Design & UI/UX
+- Responsive Web Design & and Development
 - RESTful APIs & Integration
 - Git & GitHub for version control
 
